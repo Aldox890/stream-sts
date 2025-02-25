@@ -1,5 +1,3 @@
-import os
-
 import keyboard
 import sounddevice as sd
 import numpy as np
